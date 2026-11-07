@@ -1,0 +1,16 @@
+hcpcs,service_name,category
+99212,Office visit - returning patient (straightforward),Office visit
+99213,Office visit - returning patient (low complexity),Office visit
+99214,Office visit - returning patient (moderate complexity),Office visit
+99231,Daily hospital visit by doctor (low),Hospital visit
+99232,Daily hospital visit by doctor (moderate),Hospital visit
+99233,Daily hospital visit by doctor (high),Hospital visit
+36415,Blood draw,Lab
+85025,Complete blood count (CBC),Lab
+88305,Tissue exam by pathologist,Lab
+93010,ECG reading and report,Cardiology
+71010,Chest X-ray (one view),Imaging
+71020,Chest X-ray (two views),Imaging
+92014,Comprehensive eye exam,Eye care
+97110,Physical therapy exercise,Therapy
+A0425,Ambulance mileage,Ambulance

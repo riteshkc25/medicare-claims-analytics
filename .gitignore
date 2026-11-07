@@ -1,0 +1,20 @@
+# Python environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Data (large, or recreated by the notebooks)
+/data/
+/outputs/
+powerbi/data/*.csv
+!powerbi/data/states.csv
+!powerbi/data/hcpcs_names.csv
+
+# Tableau workbook and temp files (dashboards are on Tableau Public)
+*.twb
+*.twbr
+.~*
+
+# Scratch notebooks and macOS files
+Untitled*.ipynb
+.DS_Store
